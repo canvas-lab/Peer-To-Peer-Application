@@ -1,0 +1,6 @@
+C:\Users\Vi\source\repos\PeerToPeerApplication\ClientStructure\bin\Debug\ClientStructure.dll
+C:\Users\Vi\source\repos\PeerToPeerApplication\ClientStructure\bin\Debug\ClientStructure.pdb
+C:\Users\Vi\source\repos\PeerToPeerApplication\ClientStructure\obj\Debug\ClientStructure.csprojAssemblyReference.cache
+C:\Users\Vi\source\repos\PeerToPeerApplication\ClientStructure\obj\Debug\ClientStructure.csproj.CoreCompileInputs.cache
+C:\Users\Vi\source\repos\PeerToPeerApplication\ClientStructure\obj\Debug\ClientStructure.dll
+C:\Users\Vi\source\repos\PeerToPeerApplication\ClientStructure\obj\Debug\ClientStructure.pdb

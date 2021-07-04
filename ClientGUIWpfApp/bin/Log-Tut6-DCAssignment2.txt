@@ -1,0 +1,115 @@
+2021/05/21 15:33:23 [INFO] startServerThread() - opening the host.
+2021/05/21 15:33:23 [INFO] registerAClient() - Client on port 8000 is registered, running server thread.
+2021/05/21 15:33:24 [INFO] SubmitCodeButton_Click() - Trying to add a job to the static job list by port 8000.
+2021/05/21 15:33:36 [INFO] removeDeadClient() - A user has exited and have been removed.
+2021/05/21 15:33:36 [INFO] MainWindow_Closing() - A user exits. He/She has been removed. Scoreboard has been updated. Aborting that server and networking thread
+2021/05/22 20:14:04 [INFO] startServerThread() - opening the host.
+2021/05/22 20:14:05 [INFO] registerAClient() - Client on port 8000 is registered, running server thread.
+2021/05/22 20:14:08 [INFO] startServerThread() - opening the host.
+2021/05/22 20:14:09 [ERROR] startServerThread() - the port is already in use. AddressAlreadyInUseException occured. changing the clients port.
+2021/05/22 20:14:09 [INFO] startServerThread() - opening the host.
+2021/05/22 20:14:09 [INFO] registerAClient() - Client on port 8001 is registered, running server thread.
+2021/05/22 20:14:34 [INFO] SubmitCodeButton_Click() - Trying to add a job to the static job list by port 8000.
+2021/05/22 20:14:34 [INFO] DownloadAJob() - downloading job number 1 which is uploaded by port 8000.
+2021/05/22 20:14:34 [INFO] startNetworkingThread() - Client on port 8000 is connected.
+2021/05/22 20:14:35 [INFO] doSetPythonCodeRes() - With IronPython, try to execute the python code.
+2021/05/22 20:15:13 [INFO] setScoreboard() - The scoreboard is updated
+2021/05/22 20:15:13 [INFO] UploadAnswerOfJob() - set job number 1's answer which is uploaded by port 8000.
+2021/05/22 20:16:27 [INFO] SubmitCodeButton_Click() - Trying to add a job to the static job list by port 8000.
+2021/05/22 20:16:27 [INFO] DownloadAJob() - downloading job number 2 which is uploaded by port 8000.
+2021/05/22 20:16:28 [INFO] startNetworkingThread() - Client on port 8000 is connected.
+2021/05/22 20:16:28 [INFO] doSetPythonCodeRes() - With IronPython, try to execute the python code.
+2021/05/22 20:16:29 [INFO] setScoreboard() - The scoreboard is updated
+2021/05/22 20:16:29 [INFO] UploadAnswerOfJob() - set job number 2's answer which is uploaded by port 8000.
+2021/05/22 20:16:39 [INFO] SubmitCodeButton_Click() - Trying to add a job to the static job list by port 8000.
+2021/05/22 20:16:39 [INFO] DownloadAJob() - downloading job number 3 which is uploaded by port 8000.
+2021/05/22 20:16:39 [INFO] startNetworkingThread() - Client on port 8000 is connected.
+2021/05/22 20:16:41 [INFO] doSetPythonCodeRes() - With IronPython, try to execute the python code.
+2021/05/22 20:16:47 [Error] doSetPythonCodeRes() - The code inputted is invalid, an unbound name execption occured.
+2021/05/22 20:16:47 [INFO] UploadAnswerOfJob() - set job number 3's answer which is uploaded by port 8000.
+2021/05/22 20:16:56 [INFO] SubmitCodeButton_Click() - Trying to add a job to the static job list by port 8000.
+2021/05/22 20:16:56 [INFO] DownloadAJob() - downloading job number 4 which is uploaded by port 8000.
+2021/05/22 20:16:56 [INFO] startNetworkingThread() - Client on port 8000 is connected.
+2021/05/22 20:16:57 [INFO] doSetPythonCodeRes() - With IronPython, try to execute the python code.
+2021/05/22 20:16:58 [INFO] setScoreboard() - The scoreboard is updated
+2021/05/22 20:16:58 [INFO] UploadAnswerOfJob() - set job number 4's answer which is uploaded by port 8000.
+2021/05/22 20:17:08 [INFO] startServerThread() - opening the host.
+2021/05/22 20:17:09 [ERROR] startServerThread() - the port is already in use. AddressAlreadyInUseException occured. changing the clients port.
+2021/05/22 20:17:09 [INFO] startServerThread() - opening the host.
+2021/05/22 20:17:10 [ERROR] startServerThread() - the port is already in use. AddressAlreadyInUseException occured. changing the clients port.
+2021/05/22 20:17:10 [INFO] startServerThread() - opening the host.
+2021/05/22 20:17:10 [INFO] registerAClient() - Client on port 8002 is registered, running server thread.
+2021/05/22 20:17:17 [INFO] SubmitCodeButton_Click() - Trying to add a job to the static job list by port 8000.
+2021/05/22 20:17:18 [INFO] DownloadAJob() - downloading job number 5 which is uploaded by port 8000.
+2021/05/22 20:17:18 [INFO] startNetworkingThread() - Client on port 8000 is connected.
+2021/05/22 20:17:18 [INFO] doSetPythonCodeRes() - With IronPython, try to execute the python code.
+2021/05/22 20:17:19 [INFO] setScoreboard() - The scoreboard is updated
+2021/05/22 20:17:19 [INFO] UploadAnswerOfJob() - set job number 5's answer which is uploaded by port 8000.
+2021/05/22 20:17:20 [INFO] SubmitCodeButton_Click() - Trying to add a job to the static job list by port 8000.
+2021/05/22 20:17:20 [INFO] DownloadAJob() - downloading job number 6 which is uploaded by port 8000.
+2021/05/22 20:17:20 [INFO] startNetworkingThread() - Client on port 8000 is connected.
+2021/05/22 20:17:21 [INFO] doSetPythonCodeRes() - With IronPython, try to execute the python code.
+2021/05/22 20:17:21 [INFO] setScoreboard() - The scoreboard is updated
+2021/05/22 20:17:21 [INFO] UploadAnswerOfJob() - set job number 6's answer which is uploaded by port 8000.
+2021/05/22 20:25:40 [INFO] startServerThread() - opening the host.
+2021/05/22 20:25:40 [INFO] registerAClient() - Client on port 8000 is registered, running server thread.
+2021/05/22 20:25:48 [INFO] startServerThread() - opening the host.
+2021/05/22 20:25:49 [ERROR] startServerThread() - the port is already in use. AddressAlreadyInUseException occured. changing the clients port.
+2021/05/22 20:25:49 [INFO] startServerThread() - opening the host.
+2021/05/22 20:25:50 [INFO] registerAClient() - Client on port 8001 is registered, running server thread.
+2021/05/22 20:26:06 [INFO] SubmitCodeButton_Click() - Trying to add a job to the static job list by port 8000.
+2021/05/22 20:26:07 [ERROR] startServerThread() - a fault exception occured.
+2021/05/22 20:26:19 [INFO] SubmitCodeButton_Click() - Trying to add a job to the static job list by port 8000.
+2021/05/22 20:26:20 [INFO] DownloadAJob() - downloading job number 2 which is uploaded by port 8000.
+2021/05/22 20:26:20 [INFO] startNetworkingThread() - Client on port 8000 is connected.
+2021/05/22 20:26:23 [INFO] doSetPythonCodeRes() - With IronPython, try to execute the python code.
+2021/05/22 20:27:21 [INFO] setScoreboard() - The scoreboard is updated
+2021/05/22 20:27:21 [INFO] UploadAnswerOfJob() - set job number 2's answer which is uploaded by port 8000.
+2021/05/22 20:27:29 [INFO] SubmitCodeButton_Click() - Trying to add a job to the static job list by port 8000.
+2021/05/22 20:27:30 [INFO] DownloadAJob() - downloading job number 3 which is uploaded by port 8000.
+2021/05/22 20:27:30 [INFO] startNetworkingThread() - Client on port 8000 is connected.
+2021/05/22 20:27:30 [INFO] doSetPythonCodeRes() - With IronPython, try to execute the python code.
+2021/05/22 20:27:30 [INFO] setScoreboard() - The scoreboard is updated
+2021/05/22 20:27:30 [INFO] UploadAnswerOfJob() - set job number 3's answer which is uploaded by port 8000.
+2021/05/22 20:27:33 [INFO] removeDeadClient() - A user has exited and have been removed.
+2021/05/22 20:27:33 [INFO] MainWindow_Closing() - A user exits. He/She has been removed. Scoreboard has been updated. Aborting that server and networking thread
+2021/05/22 20:27:33 [ERROR] startServerThread() - an exception occured.
+2021/05/22 20:27:33 [ERROR] startServerThread() - an exception occured. changing the clients port.
+2021/05/22 20:27:34 [INFO] removeDeadClient() - A user has exited and have been removed.
+2021/05/22 20:27:34 [ERROR] startServerThread() - a communication exception occured.
+2021/06/02 13:31:45 [INFO] startServerThread() - opening the host.
+2021/06/02 13:31:46 [INFO] registerAClient() - Client on port 8000 is registered, running server thread.
+2021/06/02 13:31:57 [INFO] startServerThread() - opening the host.
+2021/06/02 13:31:58 [ERROR] startServerThread() - the port is already in use. AddressAlreadyInUseException occured. changing the clients port.
+2021/06/02 13:31:58 [INFO] startServerThread() - opening the host.
+2021/06/02 13:31:58 [INFO] registerAClient() - Client on port 8001 is registered, running server thread.
+2021/06/02 13:32:19 [INFO] SubmitCodeButton_Click() - Trying to add a job to the static job list by port 8000.
+2021/06/02 13:32:19 [INFO] DownloadAJob() - downloading job number 1 which is uploaded by port 8000.
+2021/06/02 13:32:19 [INFO] startNetworkingThread() - Client on port 8000 is connected.
+2021/06/02 13:32:21 [INFO] doSetPythonCodeRes() - With IronPython, try to execute the python code.
+2021/06/02 13:32:54 [INFO] setScoreboard() - The scoreboard is updated
+2021/06/02 13:32:54 [INFO] UploadAnswerOfJob() - set job number 1's answer which is uploaded by port 8000.
+2021/06/02 13:33:01 [INFO] SubmitCodeButton_Click() - Trying to add a job to the static job list by port 8000.
+2021/06/02 13:33:02 [INFO] DownloadAJob() - downloading job number 2 which is uploaded by port 8000.
+2021/06/02 13:33:02 [INFO] startNetworkingThread() - Client on port 8000 is connected.
+2021/06/02 13:33:02 [INFO] doSetPythonCodeRes() - With IronPython, try to execute the python code.
+2021/06/02 13:33:02 [INFO] setScoreboard() - The scoreboard is updated
+2021/06/02 13:33:02 [INFO] UploadAnswerOfJob() - set job number 2's answer which is uploaded by port 8000.
+2021/06/02 13:33:14 [INFO] SubmitCodeButton_Click() - Trying to add a job to the static job list by port 8000.
+2021/06/02 13:33:14 [INFO] DownloadAJob() - downloading job number 3 which is uploaded by port 8000.
+2021/06/02 13:33:15 [INFO] startNetworkingThread() - Client on port 8000 is connected.
+2021/06/02 13:33:15 [INFO] doSetPythonCodeRes() - With IronPython, try to execute the python code.
+2021/06/02 13:33:16 [INFO] setScoreboard() - The scoreboard is updated
+2021/06/02 13:33:16 [INFO] UploadAnswerOfJob() - set job number 3's answer which is uploaded by port 8000.
+2021/06/02 15:13:01 [INFO] startServerThread() - opening the host.
+2021/06/02 15:13:02 [INFO] registerAClient() - Client on port 8000 is registered, running server thread.
+2021/06/02 15:13:10 [INFO] startServerThread() - opening the host.
+2021/06/02 15:13:11 [ERROR] startServerThread() - the port is already in use. AddressAlreadyInUseException occured. changing the clients port.
+2021/06/02 15:13:11 [INFO] startServerThread() - opening the host.
+2021/06/02 15:13:11 [INFO] registerAClient() - Client on port 8001 is registered, running server thread.
+2021/06/02 15:13:27 [INFO] SubmitCodeButton_Click() - Trying to add a job to the static job list by port 8000.
+2021/06/02 15:13:27 [INFO] DownloadAJob() - downloading job number 1 which is uploaded by port 8000.
+2021/06/02 15:13:27 [INFO] startNetworkingThread() - Client on port 8000 is connected.
+2021/06/02 15:13:30 [INFO] doSetPythonCodeRes() - With IronPython, try to execute the python code.
+2021/06/02 15:14:26 [INFO] setScoreboard() - The scoreboard is updated
+2021/06/02 15:14:26 [INFO] UploadAnswerOfJob() - set job number 1's answer which is uploaded by port 8000.
